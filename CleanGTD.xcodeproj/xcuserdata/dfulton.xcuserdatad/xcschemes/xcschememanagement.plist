@@ -9,6 +9,34 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>VIewHomeTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>182A29C91FF4870C001ACE16</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>186C57FD1F985B35008C10B2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>186C58111F985B35008C10B2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>186C581C1F985B35008C10B2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>
